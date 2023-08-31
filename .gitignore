@@ -14,4 +14,4 @@
 *.tmp
 
 # Ignored vscode files
-.vscode/
+*.vscode
